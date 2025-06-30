@@ -1,1 +1,1 @@
-Use Ubuntu & Apache
+Use Apache

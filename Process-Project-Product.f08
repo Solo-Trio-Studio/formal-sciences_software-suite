@@ -1,13 +1,10 @@
+program Process-Project-Product
+      print *, "Use a SDLC (Waterfall/Agile/etc.) as a process for projects for products, & project size (small/medium/large) for timespan."
+      print *, "With regards to process elements, six analysis/design layers are architectural (where), data/class (what), interface (how), procedural (when), component (why), and deployment (who)."
+      print *, "Diagrams by modeling spaces may be recommended: problem (use case & activity) during planning, solution (class & sequence) during analysis & design, and architectural (component & deployment) during implementation/etc."
+      print *, "Choose from the following topics: formal, natural, social, other."
+end program Process-Project-Product
 
-      <h1>Process Project Product</h1>
-      <form id="form1" runat="server">
-          <div>
-              <p>"Use a SDLC (Waterfall/Agile/etc.) as a process for projects for products, & project size (small/medium/large) for timespan."</p>
-              <p>"With regards to process elements, six analysis/design layers are architectural (where), data/class (what), interface (how), procedural (when), component (why), and deployment (who)."</p>
-              <p>"Diagrams by modeling spaces may be recommended: problem (use case & activity) during planning, solution (class & sequence) during analysis & design, and architectural (component & deployment) during implementation/etc."</p>
-              <p>Choose from the following topics: formal, natural, social, other.</p>
-          </div>
-      </form>
       <h1>Combinatorics</h1>
       <p>
           Categories may comprise of sets/groups/topologies/etc.

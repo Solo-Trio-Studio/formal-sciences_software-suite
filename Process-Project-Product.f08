@@ -1,16 +1,4 @@
-<html>
-  <head>
-      <title>Formal Sciences</title>
-      <style> 
-              body {
-                  background-color: rgb(0,0,96);
-                  font-family: sans-serif;
-          		    font-size: 18px;
-          		    line-height: 150%;
-              }
-      </style>
-  </head>
-  <body>
+
       <h1>Process Project Product</h1>
       <form id="form1" runat="server">
           <div>
